@@ -1,0 +1,27 @@
+﻿body {
+    background-color: black;
+    color: white;
+}
+
+/*cabeçalho*/
+.cabecalho {
+    background-color: rgb(37, 82, 126);
+    color: white;
+}
+/*Rodapé*/
+.rodape {
+    background-color: rgb(26, 62, 98);
+    color: rgb(93,126,151);
+}
+
+.sociais a {
+    font-size: 1.5em;
+    padding: 0px 20px;
+    text-decoration: none;
+    color: rgb(200,200,200);
+}
+
+    .sociais a:hover {
+        text-decoration: none;
+        color: white;
+    }
